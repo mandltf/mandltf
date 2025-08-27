@@ -16,12 +16,9 @@
 
 ### 📊 GitHub Stats
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=mandltf&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandltf&layout=compact&theme=radical" alt="Top Languages" height="150"/>
-</div>
-
-
----
-
-⭐️ From [mandltf](https://github.com/mandltf)
+<p align="left">
+<a href="https://github.com/mandltf">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mandltf&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mandltf&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
