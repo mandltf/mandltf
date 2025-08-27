@@ -15,8 +15,12 @@
 ---
 
 ### 📊 GitHub Stats
-![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=mandltf&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mandltf&layout=compact&theme=radical)
+
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=mandltf&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandltfE&layout=compact&theme=radical" alt="Top Languages" height="150"/>
+</div>
+
 
 ---
 
