@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Amanda 👋
 
-<!--
-**mandltf/mandltf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 About Me
+- 🎓 Informatics Engineering student
+- 💡 Interested in: Data Science
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Languages**: Java, PHP, Python, JavaScript  
+- **Frameworks & Tools**: Streamlit
+- **Databases**: MySQL, PostgreSQL  
+- **Other Skills**: UI/UX Design, Git 
+
+---
+
+### 📊 GitHub Stats
+![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=mandltf&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mandltf&layout=compact&theme=radical)
+
+---
+
+⭐️ From [mandltf](https://github.com/mandltf)
